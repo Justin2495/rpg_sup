@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://roleplay-gaming.net/images/logo/rpg_temp_big.png" alt="RPG Logo"/>
+  <img src="http://localhost/images/styleLogo-cad7ab23e7e58e30707a43b48cfe38b4cbd04900.png" alt="RPG Logo"/>
 </p>
 
 # Roleplay-Gaming Changelog | 16.10.2018 | 17:00 Uhr
